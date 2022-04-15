@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+}
+/******** Only Div Tags**********************/
+.first-div-tag{
+    height: 70px;
+    position: sticky;
+    top: 0;
+    background-color: white;
+
+}
+.second-div-tag{
+    height: 200px;
+   background-color:#e2d4ba;
+}
+.third-div-tag{
+   background-color:  rgba(234, 170, 0, 0.74);
+   height: 50px;
+}
+/******** Only Paragraph Tags**********************/
+.paragraph-tag1{
+    display: inline-block;
+    position: absolute;
+    padding-top: 7px;
+    left: 60px;
+}
+.paragraph-tag2{
+    display: inline-block;
+    position: absolute;
+    left: 120px;
+    padding-top: 7px;
+}
+.paragraph-tag3{
+    display: inline-block;
+    position: absolute;
+    left:180px;
+    padding-top: 7px;
+}
+.paragraph-tag4{
+    display: inline-block;
+    position: absolute;
+    left: 300px;
+    padding-top: 7px;
+}
+.paragraph-tag5{
+    color:#bc6c3c;
+   display:px;
+   margin-left:450px;
+   margin-right: 550px;
+}
+.paragraph-tag6{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 80%;
+text-transform: capitalize;
+}
+.paragraph-tag7{
+    position: absolute;
+    right: 20px;
+    top: 23px;
+    text-decoration: none;
+    color: black;
+    border-radius: 10%;
+
+}
+.paragraph-tag7:hover{
+    text-decoration:underline;
+    background-color:wheat;
+}
+.paragraph-tag8{
+position: relative;
+bottom: 5px;
+right: 430px;
+display: inline-block;
+margin: 0;
+}
+
+/******** Only Img Tags**********************/
+.first-image{
+    width: 100%;
+    padding-top:px ;
+    margin: 0;
+}
+.second-image{
+    width: 17%;
+    padding-left: 80px;
+    padding-bottom:3px;
+float: left;
+}
+.third-image{
+   width:15%;
+position: absolute;
+left: 50px;
+}
+.forth-image{
+    width:17%;
+    position: absolute;
+left: 200px;
+position: relative;
+bottom: 4px;
+
+
+}
+.fifth-image{
+    width:10%;
+    position: absolute;
+left: 200px;
+position: relative;
+bottom: 36px;
+}
+.sixth-image{
+    width:10%;
+    position: absolute;
+left: 270px;
+position: relative;
+bottom: 45px;
+}
+.seventh-image{
+    width:10%;
+    position: absolute;
+left: 330px;
+position: relative;
+bottom: 25px;
+}
+.eight-image{
+    width:13%;
+    position: absolute;
+left: 350px;
+position: relative;
+bottom: 15px;
+}
+.ninth-image{
+    width:7%;
+    position: absolute;
+left:370px;
+position: relative;
+bottom:35px ;
+}
+
+/******** Only H Tags ********/
+.first-h1{
+    color: #a4a44c;
+    margin-left:330px;
+    margin-right: 440px;
+}
+.first-h3{
+    color: #bc6c3c;
+    padding-top:40px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.second-h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    margin: 0;
+}
+/***** Only Table Tags*************/
